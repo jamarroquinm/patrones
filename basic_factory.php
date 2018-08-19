@@ -1,5 +1,7 @@
 <?php
 
+//Un modelo básico de abrica
+
 abstract class Connection {
     
     public function description() {
